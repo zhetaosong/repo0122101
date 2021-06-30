@@ -5,3 +5,6 @@ private void add(){
 
 
 }
+
+private String password;
+
